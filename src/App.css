@@ -1,0 +1,28 @@
+
+
+
+ul li{
+   cursor: pointer;
+   font-family: monospace;
+   font-size: 17px;
+   transition: .5s;
+   
+}
+
+ul li:hover{
+    letter-spacing: 1px;
+    color: rgb(245, 247, 250);
+}
+b{
+    cursor: pointer;
+    transition: 1s;
+
+}
+b:hover{
+    letter-spacing: 1px;
+}
+
+.items{
+    text-align: center;
+    margin-top: 50px;
+}
